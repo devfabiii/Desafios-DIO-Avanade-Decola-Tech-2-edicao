@@ -7,7 +7,7 @@ Desafio 2 - <a href="https://github.com/devfabiii/Desafios-DIO-Avanade-Decola-Te
 
 Desafio 3 - <a href="https://github.com/devfabiii/Desafios-DIO-Avanade-Decola-Tech-2-edicao/blob/main/sequencia-s.cs" target="_blank"> Sequência S </a>
 
-Desafio 4 - Sequência IJ2
+Desafio 4 - <a href="https://github.com/devfabiii/Desafios-DIO-Avanade-Decola-Tech-2-edicao/blob/main/sequencia-ij2.cs" target="_blank">Sequência IJ2 </a>
 
 Desafio 5 - Vai Ter Copa?
 
