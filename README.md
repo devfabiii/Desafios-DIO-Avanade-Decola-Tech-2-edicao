@@ -5,7 +5,7 @@ Desafio 1 - <a href="https://github.com/devfabiii/Desafios-DIO-Avanade-Decola-Te
 
 Desafio 2 - <a href="https://github.com/devfabiii/Desafios-DIO-Avanade-Decola-Tech-2-edicao/blob/main/quadrado-de-pares.cs" target="_blank"> Quadrado de Pares </a>
 
-Desafio 3 - Sequência S
+Desafio 3 - <a href="https://github.com/devfabiii/Desafios-DIO-Avanade-Decola-Tech-2-edicao/blob/main/sequencia-s.cs" target="_blank"> Sequência S </a>
 
 Desafio 4 - Sequência IJ2
 
